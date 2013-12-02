@@ -1,0 +1,8 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/.build-id
+%dir /usr/lib/debug/.build-id/f8
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/bin
+/usr/lib/debug/.build-id/f8/f452d5646bd543c386cd5ccf448713b7c80ec9
+/usr/lib/debug/.build-id/f8/f452d5646bd543c386cd5ccf448713b7c80ec9.debug
+/usr/lib/debug/usr/bin/harbour-planningpoker.debug
